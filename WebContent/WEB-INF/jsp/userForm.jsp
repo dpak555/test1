@@ -47,7 +47,7 @@
 		<tr>
 			<td></td>
 			<td><form:checkbox path="mailingList"
-				label="Fuck off" /></td>
+				label="Would you like to our mail list ?" /></td>
 		</tr>
 		<tr>
 			<td colspan="2"><input type="submit"></td>
