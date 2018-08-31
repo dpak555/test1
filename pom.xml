@@ -18,7 +18,6 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <surefire.version>2.18</surefire.version>
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
