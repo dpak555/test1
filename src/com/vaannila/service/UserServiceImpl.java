@@ -7,7 +7,7 @@ public class UserServiceImpl implements UserService {
 	@Override
 	public void add(User user) {
 		//Persist the user object here. 
-		logger.debug("User added successfully");
+		logger.log("User added successfully");
 
 	}
 
