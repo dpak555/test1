@@ -3,7 +3,7 @@ package com.vaannila.Test;
 import org.junit.Test;
 import static org.junit.Assert.*;
  
-public class MyAssertTrueTest {
+public class MyTest {
  
     public boolean isEvenNumber(int number){
          
