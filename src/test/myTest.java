@@ -1,7 +1,7 @@
 import org.junit.*;
 import static org.junit.Assert.*;
  
-public class myTest {
+public class MyTest {
  
     public boolean isEvenNumber(int number){
          
@@ -14,7 +14,7 @@ public class myTest {
      
     @Test
     public void evenNumberTest(){
-        myTest asft = new myTest();
+        MyTest asft = new MyTest();
         assertTrue(asft.isEvenNumber(4));
     }
 }
