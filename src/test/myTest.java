@@ -1,9 +1,9 @@
-package com.vaannila.Test;
+package com.test;
  
 import org.junit.Test;
 import static org.junit.Assert.*;
  
-public class MyTest {
+public class myTest {
  
     public boolean isEvenNumber(int number){
          
@@ -16,7 +16,7 @@ public class MyTest {
      
     @Test
     public void evenNumberTest(){
-        MyTest asft = new MyTest();
+        myTest asft = new myTest();
         assertTrue(asft.isEvenNumber(4));
     }
 }
