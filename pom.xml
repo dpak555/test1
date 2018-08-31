@@ -50,3 +50,4 @@
         <url>http://172.16.135.133:8082/nexus/content/repositories/dpksnap/</url>
     </snapshotRepository>
 </distributionManagement>
+</project>
