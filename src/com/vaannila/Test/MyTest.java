@@ -16,7 +16,7 @@ public class MyTest {
      
     @Test
     public void evenNumberTest(){
-        MyAssertTrueTest asft = new MyAssertTrueTest();
+        MyTest asft = new MyTest();
         assertTrue(asft.isEvenNumber(4));
     }
 }
